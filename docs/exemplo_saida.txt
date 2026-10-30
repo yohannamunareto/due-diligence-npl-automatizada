@@ -1,0 +1,15 @@
+Processo: 0000000-00.2026.8.00.0000 (Execução de Título Extrajudicial)
+Dívida atualizada: R$ 1.250.000,00 (data-base 30/10/2026)
+TCP: 86,40%
+
+Vetor  Score  Peso  Subscore  Fonte
+V1         7   35%      2.45  Mov. 12, Fls. 88
+V2         4   20%      0.80  Mov. 12, Fls. 90
+V3         7   20%      1.40  Mov. 31, Fls. 140
+V4         4   15%      0.60  Mov. 22, Fls. 152
+V5        10    7%      0.70  Mov. 1, Fls. 3
+V6        10    3%      0.30  Mov. 9, Fls. 60
+
+IR: 6,25 | MÉDIO RISCO
+Conclusão sugerida: AQUISIÇÃO CONDICIONAL
+Alerta: Garantia sem avaliação homologada: Penhora de trator agrícola
