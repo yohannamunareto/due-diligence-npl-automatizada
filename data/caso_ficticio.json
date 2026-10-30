@@ -1,0 +1,30 @@
+{
+  "aviso": "Caso inventado para demonstração. Nomes, valores e processo não existem.",
+  "processo": "0000000-00.2026.8.00.0000",
+  "tipo_de_feito": "Execução de Título Extrajudicial",
+  "devedor": "Agro Exemplo Ltda.",
+  "data_base": "30/10/2026",
+  "divida_atualizada": "1250000.00",
+  "garantias": [
+    {
+      "descricao": "Hipoteca de 2º grau, imóvel rural, matrícula 0000",
+      "valor": "1800000.00",
+      "avaliacao_homologada": true,
+      "gravames_anteriores": "900000.00"
+    },
+    {
+      "descricao": "Penhora de trator agrícola",
+      "valor": "180000.00",
+      "avaliacao_homologada": false,
+      "gravames_anteriores": "0"
+    }
+  ],
+  "vetores": [
+    {"codigo": "V1", "score": 7, "justificativa": "TCP entre 50% e 100% após gravames anteriores", "fonte": "Mov. 12, Fls. 88"},
+    {"codigo": "V2", "score": 4, "justificativa": "Imóvel rural com liquidez média e hipoteca de 2º grau", "fonte": "Mov. 12, Fls. 90"},
+    {"codigo": "V3", "score": 7, "justificativa": "Penhora formalizada, avaliação homologada, leilão não designado", "fonte": "Mov. 31, Fls. 140"},
+    {"codigo": "V4", "score": 4, "justificativa": "Embargos à execução pendentes de julgamento", "fonte": "Mov. 22, Fls. 152"},
+    {"codigo": "V5", "score": 10, "justificativa": "Procuração e substabelecimentos regulares", "fonte": "Mov. 1, Fls. 3"},
+    {"codigo": "V6", "score": 10, "justificativa": "Devedor citado pessoalmente", "fonte": "Mov. 9, Fls. 60"}
+  ]
+}
